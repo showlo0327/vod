@@ -355,5 +355,17 @@
       "detail": "",
       "is_**": false
     },
+     "adys": {
+      "api": "https://lovedan.net/api.php/provide/vod/",
+      "name": "艾旦影视",
+      "detail": "",
+      "is_**": false
+    },
+    "olyy": {
+      "api": "https://olevod.com/api.php/provide/vod/",
+      "name": "欧乐影院",
+      "detail": "",
+      "is_**": false
+    }
   }
 }
