@@ -349,12 +349,6 @@
       "detail": "",
       "is_**": false
     },
-    "sbdianbo": {
-      "api": "https://subocj.com/api.php/provide/vod",
-      "name": "速博-点播",
-      "detail": "",
-      "is_**": false
-    },
      "adys": {
       "api": "https://lovedan.net/api.php/provide/vod/",
       "name": "艾旦影视",
